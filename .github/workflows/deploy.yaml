@@ -39,3 +39,4 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_IAM_MANAGER_SECRET_ACCESS_KEY }}
           AWS_REGION: ${{ secrets.AWS_BUCKET_REGION }}
           SOURCE_DIR: 'build'
+          CI: ''
