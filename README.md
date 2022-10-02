@@ -5,4 +5,4 @@
 - JavaScript
 - ReactJS
 
-<a href='ringring.link'>ringring.link</a>
+<a href='https://ringring.link' target='_blank'>ringring.link</a>
