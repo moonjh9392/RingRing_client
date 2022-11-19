@@ -5,6 +5,6 @@
 - JavaScript
 - ReactJS
 
-8.22 ~ 잠정 중단
+8.20 ~ 잠정 중단
 
 <a href='https://ringring.link' target='_blank'>ringring.link</a>
